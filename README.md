@@ -10,16 +10,17 @@ Me enfoco en crear aplicaciones funcionales, limpias y fáciles de usar.
 ## 🧠 Tecnologías
 
 Frontend: React, JavaScript, HTML, CSS  
-Backend: Python, Flask, APIs REST  
+Backend: Python, Flask  
 Base de datos: SQL / SQLite  
+Autenticación: JWT  
 Herramientas: Git, GitHub, Postman
 
 ---
 
 ## 📂 Proyectos destacados
 
-- 🧠 Football Predictor App — Aplicación full stack para análisis y predicción de partidos usando React y Flask
-- 🔐 JWT Authentication System — Sistema de login y registro con autenticación segura basada en tokens
+- 🧠 Football Predictor App — Aplicación full stack para análisis y predicción de partidos (React + Flask + SQL)
+- 🔐 JWT Authentication System — Sistema de login y registro con autenticación basada en tokens
 - 📊 CRUD App — Aplicación full stack con operaciones CRUD y base de datos
 
 ---
@@ -35,4 +36,4 @@ GitHub: https://github.com/danieltauil20
 
 ## 🎯 Actualmente
 
-Buscando mi primera oportunidad como Desarrollador Full Stack Junior.
+Buscando mi primera oportunidad como Desarrollador Full Stack Junior, enfocado en React y Python (Flask).
