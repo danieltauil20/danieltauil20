@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Daniel Tauil
 
-<!--
-**danieltauil20/danieltauil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack especializado en React, JavaScript, Python y Flask, enfocado en la creación de aplicaciones web funcionales con buenas prácticas de desarrollo.
 
-Here are some ideas to get you started:
+Construyo aplicaciones web full stack con autenticación, APIs REST y bases de datos.
+Me enfoco en crear aplicaciones funcionales, limpias y fáciles de usar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologías
+
+Frontend: React, JavaScript, HTML, CSS  
+Backend: Python, Flask, APIs REST  
+Base de datos: SQL / SQLite  
+Herramientas: Git, GitHub, Postman
+
+---
+
+## 📂 Proyectos destacados
+
+- 🧠 Football Predictor App — Aplicación full stack para análisis y predicción de partidos usando React y Flask
+- 🔐 JWT Authentication System — Sistema de login y registro con autenticación segura basada en tokens
+- 📊 CRUD App — Aplicación full stack con operaciones CRUD y base de datos
+
+---
+
+## 📍 Ubicación
+Madrid, España
+
+Email: josetauil92@gmail.com  
+LinkedIn: https://www.linkedin.com/in/josé-daniel-tauil-wozniak  
+GitHub: https://github.com/danieltauil20
+
+---
+
+## 🎯 Actualmente
+
+Buscando mi primera oportunidad como Desarrollador Full Stack Junior.
