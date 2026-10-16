@@ -1,21 +1,42 @@
-### José Daniel Tauil Wozniak
-**Full Stack Software Developer**
-
-Building robust web applications and backend architectures with Python, Flask, React, and PostgreSQL. Currently focused on writing clean, maintainable code and solving real-world business problems.
+# José Daniel Tauil Wozniak
+> **Full Stack Software Developer** · Especializado en arquitecturas web sólidas y soluciones end-to-end.
 
 ---
 
-### 💻 Core Stack
-* **Languages & Runtime:** Python, JavaScript, SQL
-* **Backend:** Flask, SQLAlchemy, RESTful APIs, JWT Authentication
-* **Frontend:** React, HTML5, Modern CSS / Tailwind
-* **Tools & Workflow:** Git, GitHub, VS Code, Nginx, Docker
+### 🧰 Stack Técnico & Arquitectura
+
+| Área | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Backend** | Python, Flask, SQLAlchemy, REST APIs, Autenticación JWT |
+| **Bases de Datos** | PostgreSQL, SQL, Migraciones / Alembic |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Vercel |
+| **DevOps & Entorno** | Git, GitHub, Linux, Nginx, Docker *(Estudiando)*, VS Code |
 
 ---
 
-### 📂 Featured Work
-* **[Dentify](https://github.com/danieltauil20)** — Enterprise ERP backend architecture designed for dental clinic management.
-* **[LandingES](https://github.com/danieltauil20/landingES)** — Modern, high-performance web landing page.
+### 🚀 Proyectos Destacados
+
+#### 🦷 [Dentify — Enterprise ERP System]
+* **Descripción:** Backend completo y diseño de arquitectura de base de datos para un sistema ERP enfocado en la gestión de clínicas dentales.
+* **Stack:** Python · Flask · PostgreSQL · SQLAlchemy · JWT Authentication
+* **Puntos Clave:** Implementación de control de acceso por roles (RBAC), arquitectura modular por Blueprints y diseño eficiente de tablas relacionales.
+
+#### 🌐 [Landing ES — Web Promocional]
+* **Descripción:** Web promocional moderna y responsiva orientada a conversión y experiencia de usuario limpia.
+* **Stack:** React · CSS3 · Vercel Deployment
+* **Demo / Repo:** [Ver Proyecto](https://github.com/danieltauil20/landingES)
 
 ---
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-daniel-tauil-wozniak)
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danieltauil20&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltauil20&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📬 Contacto
+* 💼 **LinkedIn:** [José Daniel Tauil Wozniak](https://www.linkedin.com/in/jos%C3%A9-daniel-tauil-wozniak)
+* 📧 **GitHub:** [@danieltauil20](https://github.com/danieltauil20)
