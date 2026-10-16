@@ -1,39 +1,30 @@
-# 👋 Hola, soy Daniel Tauil
+# Hi there, I'm José Daniel! 👋
 
-Desarrollador Full Stack especializado en React, JavaScript, Python y Flask, enfocado en la creación de aplicaciones web funcionales con buenas prácticas de desarrollo.
-
-Construyo aplicaciones web full stack con autenticación, APIs REST y bases de datos.
-Me enfoco en crear aplicaciones funcionales, limpias y fáciles de usar.
+### 🚀 Full Stack Developer
+Desarrollador Full Stack enfocado en la construcción de aplicaciones web escalables, sólidas y eficientes. Me apasiona transformar ideas en software funcional utilizando tecnologías modernas tanto en el backend como en el frontend.
 
 ---
 
-## 🧠 Tecnologías
+### 🛠️ Tech Stack
 
-Frontend: React, JavaScript, HTML, CSS  
-Backend: Python, Flask  
-Base de datos: SQL / SQLite  
-Autenticación: JWT  
-Herramientas: Git, GitHub, Postman
+**Backend & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71100?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
----
-
-## 📂 Proyectos destacados
-
-- 🧠 Football Predictor App — Aplicación full stack para análisis y predicción de partidos (React + Flask + SQL)
-- 🔐 JWT Authentication System — Sistema de login y registro con autenticación basada en tokens
-- 📊 CRUD App — Aplicación full stack con operaciones CRUD y base de datos
+**Frontend & Tools**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📍 Ubicación
-Madrid, España
+### 💼 Conéctate conmigo
 
-Email: josetauil92@gmail.com  
-LinkedIn: https://www.linkedin.com/in/josé-daniel-tauil-wozniak  
-GitHub: https://github.com/danieltauil20
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-daniel-tauil-wozniak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieltauil20)
 
 ---
-
-## 🎯 Actualmente
-
-Buscando mi primera oportunidad como Desarrollador Full Stack Junior, enfocado en React y Python (Flask).
+> *"Construyendo código limpio y soluciones web orientadas a resultados."*
