@@ -1,43 +1,44 @@
 # José Daniel Tauil Wozniak
-> **Full Stack Software Developer** · Especializado en arquitecturas backend sólidas, diseño de bases de datos y desarrollo web end-to-end.
+> **Full Stack Software Developer** · Especializado en desarrollo web moderno con React, arquitecturas backend con Python/Flask y bases de datos relacionales.
 
 ---
 
-### 🧰 Stack Técnico & Arquitectura
+### 🚀 Proyecto Principal / Featured Project
 
-| Área | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Backend** | Python, Flask, SQLAlchemy, REST APIs, Autenticación JWT |
-| **Bases de Datos** | PostgreSQL, SQL, Migraciones / Alembic |
-| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Vercel |
-| **Entorno & DevOps** | Git, GitHub, Linux, Nginx, Docker *(Estudiando)*, VS Code |
+#### 🌐 [Landing Page Odontológica — Web Promocional Interactiva](https://github.com/danieltauil20/landingES)
+* **Descripción:** Aplicación web promocional completa desarrollada para un servicio profesional de odontología, orientada a la máxima conversión de pacientes, diseño moderno y excelente experiencia de usuario.
+* **Stack:** React · JavaScript (ES6+) · CSS3 / CSS Modules · Vercel Deployment
+* **Puntos Clave:**
+  * 📱 **Diseño Responsive:** Adaptado a dispositivos móviles, tablets y escritorio.
+  * 🎬 **Galería Multimedia & Componentes Reutilizables:** Integración de reproductores de vídeo, tarjetas de servicios y secciones explicativas.
+  * ⚡ **Optimización:** Alto rendimiento en carga y despliegue continuo a través de Vercel.
+* **Enlaces:** [Ver Repositorio en GitHub](https://github.com/danieltauil20/landingES)
 
 ---
 
-### 🚀 Proyectos Destacados
+### 💻 Otros Proyectos & Arquitecturas
 
 #### 🦷 [Dentify — Enterprise ERP System]
-* **Descripción:** Arquitectura backend y diseño de base de datos para la gestión integral de clínicas dentales.
-* **Stack:** Python · Flask · PostgreSQL · SQLAlchemy · JWT Authentication
-* **Puntos Clave:** Implementación de control de acceso por roles (RBAC), arquitectura modular por Blueprints y modelos relacionales optimizados.
-
-#### 🌐 [Landing ES — Web Promocional]
-* **Descripción:** Plataforma web promocional enfocada en rendimiento, experiencia de usuario y diseño adaptativo.
-* **Stack:** React · JavaScript · CSS3 · Vercel Deployment
-* **Demo / Repo:** [Ver Proyecto](https://github.com/danieltauil20/landingES)
+* **Descripción:** Sistema de gestión e infraestructura backend para clínicas dentales.
+* **Stack:** Python · Flask · PostgreSQL · SQLAlchemy · Autenticación JWT
+* **Puntos Clave:** Control de acceso por roles (RBAC), arquitectura modular mediante Blueprints y diseño relacional de base de datos.
 
 ---
 
-### 🎯 Enfoque Actual & Aprendizaje
-* 🚀 **Arquitectura & Frontend:** Profundizando en **TypeScript** y gestión avanzada de estado.
-* 🐳 **DevOps & Despliegues:** Configuración de entornos con **Docker**, servidores web **Nginx** e integración continua.
+### 🧰 Stack Técnico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Vercel |
+| **Backend** | Python, Flask, SQLAlchemy, REST APIs, Autenticación JWT |
+| **Bases de Datos** | PostgreSQL, SQL |
+| **Entorno & Herramientas** | Git, GitHub, VS Code, Linux, Nginx, Docker *(Aprendiendo)* |
 
 ---
 
-### ⚙️ Principios de Desarrollo
-* 🧹 **Clean Code:** Estructura de proyectos modular, código limpio y buenas prácticas de diseño de software.
-* 🔒 **Seguridad:** Apis RESTful protegidas mediante autenticación JWT y manejo seguro de variables de entorno.
-* 🔀 **Workflow:** Uso riguroso de Git, ramas de desarrollo y commits bien documentados.
+### 🎯 Enfoque Actual
+- 🚀 **Nuevos proyectos:** Desarrollando nuevas aplicaciones Full Stack para ampliar el porfolio.
+- ⚡ **Frontend & DevOps:** Profundizando en TypeScript, contenedores Docker y despliegues en la nube.
 
 ---
 
@@ -50,6 +51,6 @@
 
 ---
 
-### 📬 Contacto & Redes
+### 📬 Contacto
 * 💼 **LinkedIn:** [José Daniel Tauil Wozniak](https://www.linkedin.com/in/jos%C3%A9-daniel-tauil-wozniak)
 * 🐙 **GitHub:** [@danieltauil20](https://github.com/danieltauil20)
