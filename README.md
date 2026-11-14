@@ -8,6 +8,10 @@
 
 * **[Clínica Dental Dra. Edianny Salazar](https://odontologiaediannysalazar.vercel.app/)** — Web corporativa y sistema de captación de pacientes desplegado en Vercel. Optimizada para rendimiento, SEO local y conversión móvil.
 
+<a href="https://odontologiaediannysalazar.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danieltauil20/landingES/main/public/landingpage.png" alt="Vista previa Clínica Dental" width="600" />
+</a>
+
 *(Aquí añadiremos los otros 2 o 3 proyectos clave del bootcamp en cuanto los seleccionemos)*
 
 ---
