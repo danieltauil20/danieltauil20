@@ -39,4 +39,4 @@
 
 * **Ubicación:** Madrid, España
 * **Web en vivo:** [odontologiaediannysalazar.vercel.app](https://odontologiaediannysalazar.vercel.app/)
-* **LinkedIn:** * https://www.linkedin.com/in/danieltauil/
+* **LinkedIn:** [linkedin.com/in/danieltauil](https://www.linkedin.com/in/danieltauil/)
