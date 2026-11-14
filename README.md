@@ -1,56 +1,42 @@
-# José Daniel Tauil Wozniak
-> **Full Stack Software Developer** · Especializado en desarrollo web moderno con React, arquitecturas backend con Python/Flask y bases de datos relacionales.
+### Hola, soy Daniel Tauil 👋
+
+**Full Stack Developer** enfocado en construir aplicaciones web pragmáticas, rápidas y listas para producción. Me apasiona transformar necesidades reales en herramientas digitales eficientes, cuidando tanto la experiencia de usuario como la arquitectura del backend.
 
 ---
 
-### 🚀 Proyecto Principal / Featured Project
+### 🚀 Proyecto Destacado en Producción
 
-#### 🌐 [Landing Page Odontológica — Web Promocional Interactiva](https://github.com/danieltauil20/landingES)
-* **Descripción:** Aplicación web promocional completa desarrollada para un servicio profesional de odontología, orientada a la máxima conversión de pacientes, diseño moderno y excelente experiencia de usuario.
-* **Stack:** React · JavaScript (ES6+) · CSS3 / CSS Modules · Vercel Deployment
-* **Puntos Clave:**
-  * 📱 **Diseño Responsive:** Adaptado a dispositivos móviles, tablets y escritorio.
-  * 🎬 **Galería Multimedia & Componentes Reutilizables:** Integración de reproductores de vídeo, tarjetas de servicios y secciones explicativas.
-  * ⚡ **Optimización:** Alto rendimiento en carga y despliegue continuo a través de Vercel.
-* **Enlaces:** [Ver Repositorio en GitHub](https://github.com/danieltauil20/landingES)
+* **[Clínica Dental Dra. Edianny Salazar](https://odontologiaediannysalazar.vercel.app/)** — Web corporativa y sistema de captación de pacientes desplegado en Vercel. Optimizada para rendimiento, SEO local y conversión móvil.
+
+*(Aquí añadiremos los otros 2 o 3 proyectos clave del bootcamp en cuanto los seleccionemos)*
 
 ---
 
-### 💻 Otros Proyectos & Arquitecturas
+### 🛠️ Stack Tecnológico
 
-#### 🦷 [Dentify — Enterprise ERP System]
-* **Descripción:** Sistema de gestión e infraestructura backend para clínicas dentales.
-* **Stack:** Python · Flask · PostgreSQL · SQLAlchemy · Autenticación JWT
-* **Puntos Clave:** Control de acceso por roles (RBAC), arquitectura modular mediante Blueprints y diseño relacional de base de datos.
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+**Backend & Bases de Datos:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 
-### 🧰 Stack Técnico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Vercel |
-| **Backend** | Python, Flask, SQLAlchemy, REST APIs, Autenticación JWT |
-| **Bases de Datos** | PostgreSQL, SQL |
-| **Entorno & Herramientas** | Git, GitHub, VS Code, Linux, Nginx, Docker *(Aprendiendo)* |
-
----
-
-### 🎯 Enfoque Actual
-- 🚀 **Nuevos proyectos:** Desarrollando nuevas aplicaciones Full Stack para ampliar el porfolio.
-- ⚡ **Frontend & DevOps:** Profundizando en TypeScript, contenedores Docker y despliegues en la nube.
+**Herramientas & Despliegue:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 Actividad en GitHub
+### 📫 Contacto
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieltauil20&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltauil20&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📬 Contacto
-* 💼 **LinkedIn:** [José Daniel Tauil Wozniak](https://www.linkedin.com/in/jos%C3%A9-daniel-tauil-wozniak)
-* 🐙 **GitHub:** [@danieltauil20](https://github.com/danieltauil20)
+* **Ubicación:** Madrid, España
+* **Web en vivo:** [odontologiaediannysalazar.vercel.app](https://odontologiaediannysalazar.vercel.app/)
+* **LinkedIn:** * https://www.linkedin.com/in/danieltauil/
